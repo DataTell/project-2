@@ -53,7 +53,7 @@ The following tools have been utilized to create the app:
 
 Visiting our app you will find dashboards of our other current clients who are actively searching for pets to adapt. Below is a description of each visualization on each client page with a respective image.
 
-- *Cruella de Vil Page*
+▪️ *Cruella de Vil Page*
 
 Polar charts demonstrate a total amount of available dogs/cats by breed. These charts are interactive. Clicking on each breed will take it out of consideration and change the     whole chart to demonstrate a new proportional relationship between breeds.
 
@@ -76,7 +76,7 @@ The bubble chart represents a total amount of dogs/cats for a specific coat colo
 
 ![Bubble Chart](img/bubble.png)
 
-- *Dorothy Gale Page*
+▪️ *Dorothy Gale Page*
 
 Bar chart shows total amount of dogs and cats available for adaption in each state. Hover over each bar set to see exact number of available pets for each type.
 
@@ -86,7 +86,7 @@ The interactive map shows locations of pet shelters/animal welfare organizations
 
 ![Map](img/map.png)
 
-- *Sofia Al-Azwar Page*
+▪️ *Sofia Al-Azwar Page*
 
 Interactive table can be used to filter data by pet type, gender, breed, age, state, and city. The table can be filtered by one or multiple categories at once.
 
